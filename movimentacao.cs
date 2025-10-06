@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class MovimentaçãoRevisada : MonoBehaviour
+public class movimentacao : MonoBehaviour
 {
     // --- Configurações de Velocidade e Pulo ---
     [Header("Velocidade e Pulo")]
@@ -150,6 +150,7 @@ public class MovimentaçãoRevisada : MonoBehaviour
         }
     }
 }
+
 
 
 
